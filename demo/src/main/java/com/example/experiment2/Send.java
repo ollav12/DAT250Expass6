@@ -1,4 +1,4 @@
-package com.example.experiment1;
+package com.example.experiment2;
 
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.Connection;
